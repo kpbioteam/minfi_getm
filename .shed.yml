@@ -1,0 +1,6 @@
+categories: [Epigenetics]
+description: Tool return the Fisher information corresponding to a model and a design
+homepage_url: https://github.com/kpbioteam/minfi_getm
+name: minfi_getm
+owner: kpbioteam
+remote_repository_url: https://github.com/kpbioteam/minfi_getm
